@@ -1,0 +1,170 @@
+{
+    "Deutschland": [
+        {
+            "name": "Uschl",
+            "position": [
+                47.28,
+                11.58
+            ],
+            "enabled": false
+        },
+        {
+            "name": "Lindau",
+            "position": [
+                47.54,
+                9.68
+            ],
+            "enabled": false
+        },
+        {
+            "name": "Velbert",
+            "position": [
+                51.33,
+                7.05
+            ],
+            "enabled": true
+        }
+    ],
+    "Liechtenstein": [
+        {
+            "name": "Liechtenstein",
+            "position": [
+                47.14,
+                9.55
+            ],
+            "enabled": true
+        }
+    ],
+    "Österreich": [
+        {
+            "name": "Graz",
+            "position": [
+                47.06,
+                15.44
+            ],
+            "enabled": true
+        }
+    ],
+    "Italien": [
+        {
+            "name": "Mailand",
+            "position": [
+                45.46,
+                9.19
+            ],
+            "enabled": true
+        }
+    ],
+    "Frankreich": [
+        {
+            "name": "Cergy",
+            "position": [
+                47.14,
+                9.55
+            ],
+            "enabled": true
+        }
+    ],
+    "Rumänien": [
+        {
+            "name": "Temesora",
+            "position": [
+                45.75,
+                21.22
+            ],
+            "enabled": true
+        },
+        {
+            "name": "Lasi",
+            "position": [
+                45.15,
+                27.58
+            ],
+            "enabled": true
+        }
+    ],
+    "Polen": [
+        {
+            "name": "Krakow",
+            "position": [
+                50.06,
+                19.93
+            ],
+            "enabled": true
+        }
+    ],
+    "Schweden": [
+        {
+            "name": "Göteborg",
+            "position": [
+                57.70,
+                11.97
+            ],
+            "enabled": true
+        },
+        {
+            "name": "Stockholm",
+            "position": [
+                59.32,
+                18.06
+            ],
+            "enabled": true
+        },
+        {
+            "name": "Skelleftea",
+            "position": [
+                64.75,
+                20.95
+            ],
+            "enabled": true
+        }
+    ],
+    "USA": [
+        {
+            "name": "Lowell",
+            "position": [
+                42.64,
+                -71.32
+            ],
+            "enabled": true
+        },
+        {
+            "name": "Southfield",
+            "position": [
+                42.47,
+                -83.22
+            ],
+            "enabled": true
+        }
+    ],
+    "Kanada": [
+        {
+            "name": "Toronto",
+            "position": [
+                43.66,
+                -79.38
+            ],
+            "enabled": true
+        }
+    ],
+    "Indien": [
+        {
+            "name": "Bangalore",
+            "position": [
+                13.79,
+                77.06
+            ],
+            "enabled": true
+        }
+    ],
+    "China": [
+        {
+            "name": "Shanghai",
+            "position": [
+                31.23,
+                121.47
+            ],
+            "enabled": true
+        }
+    ]
+}
